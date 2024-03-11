@@ -1,0 +1,2 @@
+google_cloud_aiplatform==1.39.0
+Markdown==3.4.1
